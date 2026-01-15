@@ -3,7 +3,7 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dnonnysgroup/dnonnysgroup/main/assets/banner.png" alt="Dnonnys Chemco Ltd Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/dnonnysgroup/dnonnysgroup/main/assets/pagehero.png" alt="Dnonnys Chemco Ltd Banner" width="100%" />
 </p>
 
 <h1 align="center">🌿 Dnonnys Chemco Ltd.</h1>
